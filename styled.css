@@ -98,7 +98,7 @@ nav{
 
 .slider{
 
-  background: url('https://raw.githubusercontent.com/Alienrazor/e-commerce.io/main/Images/download.jpeg');
+  background: <img src= 'e-commerce.io/Images/download.jpeg'/>;
 
   clip-path: polygon(0 0, 100% 0, 100% 100%, 0 84%);
 
