@@ -18,7 +18,7 @@ const products = [
 
         code: "black",
 
-        img: "/fix/air.png",
+        img: "Images/air.png",
 
         
 
@@ -28,7 +28,7 @@ const products = [
 
         code: "darkblue",
 
-        img: "/fix/air2.png",
+        img: "Images/air2.png",
 
       },
 
@@ -52,7 +52,7 @@ const products = [
 
         code: "lightgrey",
 
-        img: "/fix/jordan.png",
+        img: "Images/jordan.png",
 
         
 
@@ -62,7 +62,7 @@ const products = [
 
         code: "green",
 
-        img: "/fix/jordan2.png",
+        img: "/Images/jordan2.png",
 
       },
 
@@ -86,7 +86,7 @@ const products = [
 
         code: "lightgrey",
 
-        img: "/fix/crater.png",
+        img: "Images/crater.png",
 
       },
 
