@@ -773,7 +773,9 @@ footer{
 }*/
 .rightMenuLast{
     display: flex;
-
+  
+    align-items: center;
+  
     background: #293855;
 
     padding: 15px 23px;
@@ -784,15 +786,15 @@ footer{
 
 }
 
-footer span a{
+rightMenuLast span a{
 
-    color: black;
+    color: green;
 
     text-decoration: none;
 
 }
 
-footer span a:hover{
+rightMenuLast span a:hover{
 
     text-decoration: underline;
 
