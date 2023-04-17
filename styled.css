@@ -776,7 +776,7 @@ footer{
   
     align-items: center;
   
-    background: #293855;
+    background: black;
 
     padding: 15px 23px;
 
@@ -786,7 +786,7 @@ footer{
 
 }
 
-rightMenuLast span a{
+.rightMenuLast span a{
 
     color: green;
 
@@ -794,7 +794,7 @@ rightMenuLast span a{
 
 }
 
-rightMenuLast span a:hover{
+.rightMenuLast span a:hover{
 
     text-decoration: underline;
 
