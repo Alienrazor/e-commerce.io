@@ -772,7 +772,7 @@ footer{
 
 }*/
 .rightMenuLast{
-
+    display: flex;
 
     background: #293855;
 
